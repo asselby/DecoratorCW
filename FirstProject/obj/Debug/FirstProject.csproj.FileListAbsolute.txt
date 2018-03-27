@@ -1,0 +1,9 @@
+c:\users\баймуханбетоваа\documents\visual studio 2017\Projects\DecoratorPattern\FirstProject\bin\Debug\FirstProject.exe.config
+c:\users\баймуханбетоваа\documents\visual studio 2017\Projects\DecoratorPattern\FirstProject\bin\Debug\FirstProject.exe
+c:\users\баймуханбетоваа\documents\visual studio 2017\Projects\DecoratorPattern\FirstProject\bin\Debug\FirstProject.pdb
+c:\users\баймуханбетоваа\documents\visual studio 2017\Projects\DecoratorPattern\FirstProject\obj\Debug\FirstProject.csprojResolveAssemblyReference.cache
+c:\users\баймуханбетоваа\documents\visual studio 2017\Projects\DecoratorPattern\FirstProject\obj\Debug\FirstProject.MainWin.resources
+c:\users\баймуханбетоваа\documents\visual studio 2017\Projects\DecoratorPattern\FirstProject\obj\Debug\FirstProject.Properties.Resources.resources
+c:\users\баймуханбетоваа\documents\visual studio 2017\Projects\DecoratorPattern\FirstProject\obj\Debug\FirstProject.csproj.GenerateResource.Cache
+c:\users\баймуханбетоваа\documents\visual studio 2017\Projects\DecoratorPattern\FirstProject\obj\Debug\FirstProject.exe
+c:\users\баймуханбетоваа\documents\visual studio 2017\Projects\DecoratorPattern\FirstProject\obj\Debug\FirstProject.pdb
